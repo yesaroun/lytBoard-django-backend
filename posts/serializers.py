@@ -15,7 +15,7 @@ class PostSerializer(serializers.ModelSerializer):
             "body",
             "image",
             "published_date",
-            "like",
+            "likes",
         )
 
 
